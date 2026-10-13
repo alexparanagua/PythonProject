@@ -1,0 +1,18 @@
+[
+  {
+    "role": "user",
+    "content": "oi"
+  },
+  {
+    "role": "assistant",
+    "content": "Oi! 👋\n\nPara começar a ajudar da melhor forma, poderia me dizer:\n\n1. **Qual assunto ou tópico você gostaria de estudar?** (ex.: matemática, português, história, programação, etc.)\n2. **Qual é o seu nível atual?** (ex.: iniciante, intermediário, avançado)\n3. **Qual é o objetivo?** (ex.: melhorar em provas, aprender um conceito específico, praticar exercícios, etc.)\n\nAssim eu consigo criar uma explicação curta, didática e um exercício que se encaixe no seu contexto. 🚀"
+  },
+  {
+    "role": "user",
+    "content": "testando o chat, diz de forma objetiva o q significa oab"
+  },
+  {
+    "role": "assistant",
+    "content": "**OAB** = **Ordem dos Advogados do Brasil**.  \nÉ o órgão profissional que regula, fiscaliza e representa os advogados no Brasil, concedendo a licença para exercer a advocacia e promovendo a defesa dos direitos dos profissionais e da sociedade."
+  }
+]

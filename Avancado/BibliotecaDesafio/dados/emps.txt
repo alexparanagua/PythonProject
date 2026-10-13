@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "idlivro": "1",
+        "idusuario": "1",
+        "dataemp": "14/09/2026",
+        "datadev": null,
+        "status": "E"
+    },
+    {
+        "id": 2,
+        "idlivro": "1",
+        "idusuario": "1",
+        "dataemp": "14/09/2026",
+        "datadev": "14/09/2026",
+        "status": null
+    },
+    {
+        "id": 3,
+        "idlivro": "3",
+        "idusuario": "1",
+        "dataemp": "14/09/2026",
+        "datadev": null,
+        "status": "E"
+    }
+]

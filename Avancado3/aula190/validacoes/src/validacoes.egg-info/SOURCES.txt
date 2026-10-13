@@ -1,0 +1,7 @@
+pyproject.toml
+src/validacoes/__init__.py
+src/validacoes/core.py
+src/validacoes.egg-info/PKG-INFO
+src/validacoes.egg-info/SOURCES.txt
+src/validacoes.egg-info/dependency_links.txt
+src/validacoes.egg-info/top_level.txt

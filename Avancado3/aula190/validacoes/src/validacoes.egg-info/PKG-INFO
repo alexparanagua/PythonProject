@@ -1,0 +1,7 @@
+Metadata-Version: 2.4
+Name: validacoes
+Version: 0.1.0
+Summary: Exemplo de pacote Python instalável
+Author: Seu Nome
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown

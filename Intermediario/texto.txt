@@ -1,0 +1,33 @@
+==================================================
+        INTRODUÇÃO À LINGUAGEM PYTHON
+==================================================
+
+Python é uma linguagem de programação de alto nível,
+interpretada, de script, imperativa, orientada a objetos,
+funcional, de tipagem dinâmica e forte.
+
+Principais Características:
+--------------------------------------------------
+* Sintaxe Limpa e Legível: Foco na produtividade e legibilidade.
+* Multiparadigma: Suporta orientação a objetos, funcional e imperativa.
+* Baterias Inclusas: Ampla biblioteca padrão para diversas tarefas.
+* Comunidade Ativa: Vasto ecossistema de pacotes de terceiros (PyPI).
+
+Exemplo Básico de Código:
+--------------------------------------------------
+def cumprimentar(nome):
+    return f"Olá, {nome}! Bem-vindo ao Python."
+
+mensagem = cumprimentar("Dev")
+print(mensagem)
+
+Aplicações Comuns:
+--------------------------------------------------
+1. Desenvolvimento Web (Django, Flask, FastHTML)
+2. Ciência de Dados e Aprendizado de Máquina (Pandas, NumPy, PyTorch)
+3. Automação e Scripting
+4. Desenvolvimento de APIs e Microsserviços
+
+==================================================
+Fim do arquivo de teste.
+==================================================

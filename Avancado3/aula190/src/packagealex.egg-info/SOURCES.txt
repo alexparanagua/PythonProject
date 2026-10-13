@@ -1,0 +1,8 @@
+pyproject.toml
+src/packagealex/__init__.py
+src/packagealex/core.py
+src/packagealex.egg-info/PKG-INFO
+src/packagealex.egg-info/SOURCES.txt
+src/packagealex.egg-info/dependency_links.txt
+src/packagealex.egg-info/top_level.txt
+tests/test_core.py

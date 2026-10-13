@@ -1,0 +1,9 @@
+[tool.poetry]
+name = "exemplo1"
+version = "0.1.0"
+description = "Pacote exemplo com Poetry"
+authors = ["Seu Nome"]
+
+[tool.poetry.scripts]
+exemplo1 = "exemplo1.cli:main"
+

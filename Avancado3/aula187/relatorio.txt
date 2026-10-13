@@ -1,0 +1,16 @@
+RELATÓRIO DA TURMA
+----------------------------------------
+Quantidade de alunos: 4
+Média geral da turma: 6.58
+
+Desempenho por aluno:
+- Ana: média 8.17 (Aprovado)
+- Bruno: média 5.5 (Recuperação)
+- Carla: média 3.17 (Reprovado)
+- Diego: média 9.5 (Aprovado)
+
+Top 3 médias:
+1) Diego — 9.5
+2) Ana — 8.17
+3) Bruno — 5.5
+----------------------------------------

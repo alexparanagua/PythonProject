@@ -1,0 +1,30 @@
+[project]
+name = "packagealex_poetry"
+version = "0.1.0"
+description = ""
+authors = [
+    {name = "Alex Lima - Radix",email = "alex.lima@radixeng.com"}
+]
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "requests (>=2.34.2,<3.0.0)"
+]
+
+[tool.poetry]
+packages = [{include = "packagealex_poetry", from = "src"}]
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+[dependency-groups]
+dev = [
+    "pytest (>=9.1.1,<10.0.0)"
+]
+
+[tool.poetry.scripts]
+meutool = "packagealex_poetry.cli:main"
+
+[project.scripts]
+meutool = "packagealex_poetry.cli:main"
